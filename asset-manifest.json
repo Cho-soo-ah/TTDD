@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//cho-soo-ah.github.io/TTDD/static/css/main.1ed16400.css",
-    "main.js": "//cho-soo-ah.github.io/TTDD/static/js/main.38e6d15d.js",
-    "static/js/787.3de40121.chunk.js": "//cho-soo-ah.github.io/TTDD/static/js/787.3de40121.chunk.js",
-    "static/media/main.jpg": "//cho-soo-ah.github.io/TTDD/static/media/main.c740506c839f830e39f7.jpg",
-    "index.html": "//cho-soo-ah.github.io/TTDD/index.html",
-    "main.1ed16400.css.map": "//cho-soo-ah.github.io/TTDD/static/css/main.1ed16400.css.map",
-    "main.38e6d15d.js.map": "//cho-soo-ah.github.io/TTDD/static/js/main.38e6d15d.js.map",
-    "787.3de40121.chunk.js.map": "//cho-soo-ah.github.io/TTDD/static/js/787.3de40121.chunk.js.map"
+    "main.css": "/TTDD/static/css/main.00a03022.css",
+    "main.js": "/TTDD/static/js/main.b4155d60.js",
+    "static/js/787.3de40121.chunk.js": "/TTDD/static/js/787.3de40121.chunk.js",
+    "static/media/main.jpg": "/TTDD/static/media/main.c740506c839f830e39f7.jpg",
+    "index.html": "/TTDD/index.html",
+    "main.00a03022.css.map": "/TTDD/static/css/main.00a03022.css.map",
+    "main.b4155d60.js.map": "/TTDD/static/js/main.b4155d60.js.map",
+    "787.3de40121.chunk.js.map": "/TTDD/static/js/787.3de40121.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ed16400.css",
-    "static/js/main.38e6d15d.js"
+    "static/css/main.00a03022.css",
+    "static/js/main.b4155d60.js"
   ]
 }
