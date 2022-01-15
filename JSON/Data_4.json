@@ -1,0 +1,56 @@
+[
+    {
+        "id": 36,
+        "name": "유채나물",
+        "state" : "green",
+        "detail" : ""
+    },
+    {
+        "id": 37,
+        "name": "질경이",
+        "state" : "green",
+        "detail" : ""
+    },
+    {
+        "id": 38,
+        "name": "참나물",
+        "state" : "green",
+        "detail" : ""
+    },
+    {
+        "id": 39,
+        "name": "청경채",
+        "state" : "orange",
+        "detail" : ""
+    },
+    {
+        "id": 40,
+        "name": "취나물",
+        "state" : "green",
+        "detail" : ""
+    },
+    {
+        "id": 41,
+        "name": "치커리",
+        "state" : "green",
+        "detail" : ""
+    },
+    {
+        "id": 42,
+        "name": "케일",
+        "state" : "orange",
+        "detail" : ""
+    },
+    {
+        "id": 43,
+        "name": "콘샐러드",
+        "state" : "green",
+        "detail" : ""
+    },
+    {
+        "id": 44,
+        "name": "콩",
+        "state" : "red",
+        "detail" : "거북이는 2~5%정도의 단백질을 필요로합니다. 그러나 콩과 식물은 대부분 단백질 함유량이 굉장히 높아 등갑 기형을 유발할 수 있으니 최대한 급여를 피해야합니다."
+    }
+]
