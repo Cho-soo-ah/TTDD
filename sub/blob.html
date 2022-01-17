@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient animation</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <section id="blob_sec">
+        <div class="inner">
+            <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+                <defs>
+                    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" style="stop-color: rgb(194, 229, 156);"></stop>
+                    <stop offset="100%" style="stop-color: rgb(100, 179, 244);"></stop>
+                    </linearGradient>
+                </defs>
+                <path fill="url(#gradient)">
+                    <animate attributeName="d" dur="10000ms" repeatCount="indefinite"
+                    
+                    values="
+                        M411.5,322Q365,394,283.5,427Q202,460,120.5,406Q39,352,73,266.5Q107,181,154,108Q201,35,288.5,63.5Q376,92,417,171Q458,250,411.5,322Z;
+
+                        M409,315.5Q355,381,276,432Q197,483,130.5,411.5Q64,340,65,251Q66,162,140,128Q214,94,307.5,77.5Q401,61,432,155.5Q463,250,409,315.5Z;
+
+                        M439,339Q392,428,294,457.5Q196,487,137,410Q78,333,85,253.5Q92,174,144.5,96.5Q197,19,279,65Q361,111,423.5,180.5Q486,250,439,339Z;
+
+                        M404.38563,327.46188Q374.16835,404.92375,289.27986,428.13023Q204.39136,451.33671,157.45395,384.30145Q110.51653,317.26619,87.09784,238.81511Q63.67915,160.36403,134.53526,106.9892Q205.39136,53.61437,281.09784,84.40503Q356.80432,115.19568,395.70361,182.59784Q434.6029,250,404.38563,327.46188Z;
+
+                        M409.10088,346.60526Q403.94151,443.21051,299.31944,466.71051Q194.69737,490.21051,118.77267,420.12645Q42.84797,350.04239,70.97881,263.7902Q99.10964,177.53801,152.05482,115.80263Q205,54.06725,290.30263,73.16375Q375.60526,92.26024,394.93275,171.13012Q414.26024,250,409.10088,346.60526Z;
+
+                        M411.5,322Q365,394,283.5,427Q202,460,120.5,406Q39,352,73,266.5Q107,181,154,108Q201,35,288.5,63.5Q376,92,417,171Q458,250,411.5,322Z;
+                    ">
+                    </animate>
+                </path>
+            </svg>
+        </div>
+    </section>
+    <footer>
+        <div class="copyright">
+            Copyright © Cho Soo Ah. All Rights Reserved.
+        </div>
+        <div class="sns">
+            <div class="email">flkur106@naver.com</div>
+            <div class="git"></div>
+            <div class="blog"><a href="ssooaahh.tistory.com"></a></div>
+        </div>
+    </footer>
+</body>
+</html>
